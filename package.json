@@ -19,10 +19,8 @@
     "coverage": "npm test -- --coverage",
     "postcoverage": "open-cli coverage/lcov-report/index.html",
     "lint": "eslint .",
-    "docs": "documentation readme src --section=API",
-    "postdocs": "git add README.md",
     "clean": "rimraf dist",
-    "prebuild": "npm run docs && npm run clean",
+    "prebuild": "npm run clean",
     "build": "babel src -d dist",
     "prerelease": "npm run lint && npm test && npm run build",
     "release": "standard-version",
@@ -46,17 +44,16 @@
     "typography"
   ],
   "dependencies": {
-    "lodash": "4.17.15",
     "tailwindcss": "1.4.6"
   },
   "devDependencies": {
+    "lodash": "4.17.15",
     "@babel/cli": "7.4.4",
     "@babel/core": "7.4.5",
     "@babel/plugin-proposal-class-properties": "7.4.4",
     "@babel/preset-env": "7.4.5",
     "babel-eslint": "10.0.2",
     "babel-jest": "24.8.0",
-    "documentation": "11.0.1",
     "eslint": "6.0.0",
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-config-prettier": "5.0.0",
