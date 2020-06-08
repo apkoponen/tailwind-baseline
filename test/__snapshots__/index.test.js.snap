@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should work with multiple fontSizes and lineHeights 1`] = `
+Object {
+  ".baseline-debug-line": Object {
+    "background": "linear-gradient(rgba(255, 0, 0, 0.15), rgba(255, 0, 0, 0.15) 1px, transparent 1px)",
+    "backgroundSize": "1px 0.25rem",
+  },
+  ".baseline-debug-stripe": Object {
+    "background": "repeating-linear-gradient(0, #68d391,#68d391 0.25rem, #c6f6d5 0.25rem, #c6f6d5 0.5rem)",
+  },
+  ".font-sans.text-5xl.leading-3.baseline, .font-sans .text-5xl.leading-3.baseline, .font-sans .text-5xl .leading-3.baseline ,.text-5xl .font-sans.leading-3.baseline, .text-5xl .font-sans .leading-3.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.25rem",
+    },
+    "fontSize": "3rem",
+    "lineHeight": "0.75rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(-0.239em)",
+  },
+  ".font-sans.text-5xl.leading-4.baseline, .font-sans .text-5xl.leading-4.baseline, .font-sans .text-5xl .leading-4.baseline ,.text-5xl .font-sans.leading-4.baseline, .text-5xl .font-sans .leading-4.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.25rem",
+    },
+    "fontSize": "3rem",
+    "lineHeight": "1rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(-0.19733333333333336em)",
+  },
+  ".font-sans.text-5xl.leading-none.baseline, .font-sans .text-5xl.leading-none.baseline, .font-sans .text-5xl .leading-none.baseline ,.text-5xl .font-sans.leading-none.baseline, .text-5xl .font-sans .leading-none.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-1rem",
+    },
+    "fontSize": "3rem",
+    "lineHeight": "3rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.136em)",
+  },
+  ".font-sans.text-5xl.leading-snug.baseline, .font-sans .text-5xl.leading-snug.baseline, .font-sans .text-5xl .leading-snug.baseline ,.text-5xl .font-sans.leading-snug.baseline, .text-5xl .font-sans .leading-snug.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-2.25rem",
+    },
+    "fontSize": "3rem",
+    "lineHeight": "4.25rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.3443333333333334em)",
+  },
+  ".font-sans.text-base.leading-3.baseline, .font-sans .text-base.leading-3.baseline, .font-sans .text-base .leading-3.baseline ,.text-base .font-sans.leading-3.baseline, .text-base .font-sans .leading-3.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.25rem",
+    },
+    "fontSize": "1rem",
+    "lineHeight": "0.75rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.01100000000000001em)",
+  },
+  ".font-sans.text-base.leading-4.baseline, .font-sans .text-base.leading-4.baseline, .font-sans .text-base .leading-4.baseline ,.text-base .font-sans.leading-4.baseline, .text-base .font-sans .leading-4.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.5rem",
+    },
+    "fontSize": "1rem",
+    "lineHeight": "1rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.136em)",
+  },
+  ".font-sans.text-base.leading-none.baseline, .font-sans .text-base.leading-none.baseline, .font-sans .text-base .leading-none.baseline ,.text-base .font-sans.leading-none.baseline, .text-base .font-sans .leading-none.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.5rem",
+    },
+    "fontSize": "1rem",
+    "lineHeight": "1rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.136em)",
+  },
+  ".font-sans.text-base.leading-snug.baseline, .font-sans .text-base.leading-snug.baseline, .font-sans .text-base .leading-snug.baseline ,.text-base .font-sans.leading-snug.baseline, .text-base .font-sans .leading-snug.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-1rem",
+    },
+    "fontSize": "1rem",
+    "lineHeight": "1.5rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.386em)",
+  },
+  ".font-sans.text-sm.leading-3.baseline, .font-sans .text-sm.leading-3.baseline, .font-sans .text-sm .leading-3.baseline ,.text-sm .font-sans.leading-3.baseline, .text-sm .font-sans .leading-3.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.25rem",
+    },
+    "fontSize": "0.875rem",
+    "lineHeight": "0.75rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.06457142857142856em)",
+  },
+  ".font-sans.text-sm.leading-4.baseline, .font-sans .text-sm.leading-4.baseline, .font-sans .text-sm .leading-4.baseline ,.text-sm .font-sans.leading-4.baseline, .text-sm .font-sans .leading-4.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.5rem",
+    },
+    "fontSize": "0.875rem",
+    "lineHeight": "1rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.2074285714285714em)",
+  },
+  ".font-sans.text-sm.leading-none.baseline, .font-sans .text-sm.leading-none.baseline, .font-sans .text-sm .leading-none.baseline ,.text-sm .font-sans.leading-none.baseline, .text-sm .font-sans .leading-none.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.5rem",
+    },
+    "fontSize": "0.875rem",
+    "lineHeight": "1rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.2074285714285714em)",
+  },
+  ".font-sans.text-sm.leading-snug.baseline, .font-sans .text-sm.leading-snug.baseline, .font-sans .text-sm .leading-snug.baseline ,.text-sm .font-sans.leading-snug.baseline, .text-sm .font-sans .leading-snug.baseline": Object {
+    "&:before": Object {
+      "content": "''",
+      "display": "block",
+      "height": 0,
+      "marginTop": "-0.75rem",
+    },
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "paddingTop": "0.25rem",
+    "transform": "translateY(0.3502857142857143em)",
+  },
+}
+`;
