@@ -46,6 +46,11 @@
   "dependencies": {
     "tailwindcss": "1.4.6"
   },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**"
+    ]
+  },
   "devDependencies": {
     "lodash": "4.17.15",
     "@babel/cli": "7.4.4",
