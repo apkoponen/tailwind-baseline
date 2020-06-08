@@ -1,6 +1,6 @@
 {
   "name": "tailwind-baseline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tailwind CSS plugin for aligning text to baseline.",
   "license": "MIT",
   "repository": "apkoponen/tailwind-baseline",
