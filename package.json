@@ -52,7 +52,7 @@
     ]
   },
   "devDependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "@babel/cli": "7.4.4",
     "@babel/core": "7.4.5",
     "@babel/plugin-proposal-class-properties": "7.4.4",
